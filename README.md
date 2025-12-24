@@ -1,37 +1,16 @@
-# GameHub
-
-GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. 
-
-This is the project we build in my Ultimate React course. You can find the full course at: https://codewithmosh.com 
-
-## Getting Started
-
-To get started with GameHub, follow these steps:
 
 
-1. Clone this repository to your local machine.
-2. Run `npm install` to install the required dependencies.
-3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first. 
-4. Add the API key to **src/services/api-client.ts**
-5. Run `npm run dev` to start the web server. 
+[online demo](https://gamestore-tawny.vercel.app/)
 
-## About the Course 
+- Developed by MohammadReza Afroozi
+- Created - 2025
+- 🤖 Technologies Used - [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
 
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
+- 🤖🤖♀️ Role - Frontend
+- How to reach me : with my
+[instagram](https://www.instagram.com/afroozi_dev?igsh=MWNvODk2dGwwY29o) and
+[linkedin](https://www.linkedin.com/in/mohammad-reza-afroozi)
 
-- Build front-end apps with React and TypeScript
-- Build reusable function components
-- Style your components using vanilla CSS, CSS modules, and CSS-in-JS
-- Manage component state
-- Build forms with React Hook Forms
-- Implement form validation using Zod
-- Connect your React apps to the backend
-- Deploy your React apps
-- Use VSCode shortcuts to increase your productivity
-- Write clean code like a pro
-- Apply best practices
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
-
-By the end of this course, you'll have a solid understanding of React and be able to build real-world applications with React and TypeScript.
-
-You can find the full course at: https://codewithmosh.com 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
